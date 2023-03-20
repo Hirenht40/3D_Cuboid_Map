@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+body{
+
+  /* background-image: url("./images/ed9ca141995087.57bd506031424.gif"); */
+  background: linear-gradient(to bottom right, #ee0a12, #3715e2);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}

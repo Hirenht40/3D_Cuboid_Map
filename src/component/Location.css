@@ -1,0 +1,93 @@
+.static_map{
+    border: solid red 1px;
+    position: absolute;
+    z-index:1;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    
+}
+
+.capture{
+    display: block;
+    position: fixed;
+    margin-top: 280px;
+    margin-left: 710px;
+ 
+
+}
+
+
+
+form{
+    margin-left: 580px;
+    width: 5000px;
+    margin-right: auto ;
+    position: absolute;
+    z-index:1;
+}
+
+
+
+.serach{
+    margin-left: -27px;
+}
+
+.my-canvas-class {
+    width: 800px;
+    height: 600px;
+  }
+  
+
+  .close{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 20px;
+    color: white;
+  }
+
+
+  .cuboid{
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  }
+
+
+
+.input{
+    margin-top: 20px;
+    border-radius: 10px;
+    border: solid #e6e6e6 2px;
+    width: 400px;
+    height: 35px;
+}
+
+
+
+
+
+
+/* CSS */
+.capture {
+  color: #fff;
+  padding: 15px 25px;
+  background-color: #182af0;
+  background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+  border-radius: 14px;
+  font-weight: bold;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+  cursor: pointer;
+}
+
+a{
+    cursor: pointer;
+}
+
+footer{
+    z-index: -1;
+}
